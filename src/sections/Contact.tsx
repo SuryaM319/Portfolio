@@ -88,7 +88,7 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-sm font-semibold text-gray-400">GitHub</h4>
                   <a
-                    href="https://github.com"
+                    href="https://github.com/SuryaM319"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white hover:text-primary transition-colors"

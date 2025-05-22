@@ -81,7 +81,7 @@ const Resume: React.FC = () => {
                   </div>
                   <h4 className="text-xl font-bold text-white">Bachelor of Technology in Mechanical Engineering</h4>
                   <p className="text-primary">Aditya Engineering College</p>
-                  <p className="text-gray-400 mt-2">CGPA: 8.07/10</p>
+                  <p className="text-gray-400 mt-2">CGPA: 8.12/10</p>
                 </div>
               </div>
 
